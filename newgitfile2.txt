@@ -15,5 +15,8 @@ use rm<space> name to remove a file
 instead if we create a directory then it wouldnt show it in the repository until we make changes to it. if we make changes then it shows it in the repository. if we use git add <file name> then it will start monitoring it.
 We use git push to upload documents on to the online git platform.
 We use pull to take documents from the server to the computer.
-If we make changes to the existing files and then push it, it would not accept it. We first need to pull that off and then start pushing it to the online repo.
+If we make changes to the existing files and then we need to add them to the repository usig git add <filename> or git add .
+Adding will do nothing but add the modified file to the repo without the changes. So we use commit
+Exact commit command is- git commit -m "message in quotes"
+Then do git push. it will add the files to the repo.
 
