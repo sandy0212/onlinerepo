@@ -20,3 +20,5 @@ Adding will do nothing but add the modified file to the repo without the changes
 Exact commit command is- git commit -m "message in quotes"
 Then do git push. It will add the files to the repository.
 Made some changes.
+Then do git push. it will add the files to the repo.
+After cloning we do not need to clone everytime. we can just pull.
