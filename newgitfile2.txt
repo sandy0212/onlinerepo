@@ -19,4 +19,4 @@ If we make changes to the existing files and then we need to add them to the rep
 Adding will do nothing but add the modified file to the repo without the changes. So we use commit
 Exact commit command is- git commit -m "message in quotes"
 Then do git push. it will add the files to the repo.
-
+After cloning we do not need to clone everytime. we can just pull.
