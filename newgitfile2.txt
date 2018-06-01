@@ -1,8 +1,19 @@
-s is the newer version of vim installed.
+We started off by signing in the github and then istalling it in ubuntu.
+We started off by creating a repository. repository is nothing but a bunch of main files which are in the git folder.
+we created a repository by just cloning it using the git clone <url>.
+Thus a clone repository is created.
+This is the newer version of vim installed.
 This even has a backspace.
 I know its dumb.
 To edit a file we use vi<space>the files name.
 If the file name doesnt exist, it creates a new file.
 Now i deleted the created file as i didnt give the .txt extension to it.
 Use rm- rf<space> file name to delete a file.
+Then we can add a file to any repository by command git add filename. then it will add the file to awesome-awesomeness and will show in a green colour.
+Use rm -rf<space> to remove a directory
+use rm<space> name to remove a file
+instead if we create a directory then it wouldnt show it in the repository until we make changes to it. if we make changes then it shows it in the repository. if we use git add <file name> then it will start monitoring it.
+We use git push to upload documents on to the online git platform.
+We use pull to take documents from the server to the computer.
+If we make changes to the existing files and then push it, it would not accept it. We first need to pull that off and then start pushing it to the online repo.
 
