@@ -1,0 +1,8 @@
+s is the newer version of vim installed.
+This even has a backspace.
+I know its dumb.
+To edit a file we use vi<space>the files name.
+If the file name doesnt exist, it creates a new file.
+Now i deleted the created file as i didnt give the .txt extension to it.
+Use rm- rf<space> file name to delete a file.
+
